@@ -23,7 +23,7 @@
 
 ###
 
-<p align="center">A passionate Web and App developer from India</p>
+<p align="center">A passionate Web and App developer.</p>
 
 ###
 
