@@ -27,7 +27,7 @@
 
 ###
 
-<p align="center">🌱 I’m currently learning **React, React Native**<br><br>- 👯 I’m looking to collaborate on **Android Projects**<br><br>- 👨‍💻 Visit at https://eramkumar.netlify.app<br><br>- 📫 How to reach me **eramkumar000@gmail.com**</p>
+<p align="center">🌱 I’m currently learning **React, React Native**<br><br>- 👯 I’m looking to collaborate on **Android Projects**<br><br>- 👨‍💻 Visit at https://eramkumar.netlify.app<br><br>- 📫 How to reach me **e.ramkumar00@gmail.com**</p>
 
 ###
 
